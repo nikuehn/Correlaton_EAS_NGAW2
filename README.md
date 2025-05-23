@@ -1,4 +1,4 @@
-This repository contains data and code for the paper "Bayesian interfrequency and interintensity empirical correlations of horizontal Fourier amplitude spectra using NGA-West2 data".
+This repository contains data and code for the paper "Bayesian interfrequency and interintensity empirical correlations of horizontal Fourier amplitude spectra using NGA-West2 data", accepted for publication in Earthquake Spectra.
 
 'data':
   - 'TotResidAllPer_IM_ModES_combined.csv' contains total residuals of PSA and other intensity measures (PGA, CAV, AI) with respect to the C14 GMM
